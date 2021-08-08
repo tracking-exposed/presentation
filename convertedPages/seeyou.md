@@ -1,65 +1,46 @@
 ---
-title: "(first write up) a labor union for content creators"
+title: "A labor union for content creators"
 date: 2019-05-31T10:00:00+01:00
 draft: false
 layout: single
+author: Claudio of Tracking Exposed
+date: 31 May 2019
+documentclass: extarticle
+papersize: A4
+output: pdf_document
+fontsize: 14pt
+geometry: top=2cm, bottom=2cm, left=2cm, right=2cm
+standalone: true
+urlcolor: RedViolet
+toc_depth: 2
+highlight: zenburn
+lang: en-US
 ---
 
 **Update 27 July 2019**: The German/Global initiative [FairTube](https://fairtube.info/en/) has something in common with us. We want to enable youtubers and watchers in a collaborative analysis of algorithms. YouTube might or might not comply with requests, but only by analyzing how the platform controls the videos we can hold them accountable.
 
-{{<colorblock color="primary" text="We address the algorithm">}}
+# We address the algorithm
 
-YouTube algorithm is, according to Google itself, a **regulation system of the platform**. It is used to increase profits in two ways, impacting both the information flow and the type of boosted content. A social, information, and therefore political influence. This page do not talk about the [social-impact](/social-impact) of Youtube algorithm, but to the ultimate asset of Google: **the network of content creators**.
+YouTube algorithm is, according to Google itself, a **regulation system of the platform**. It is used to increase profits in two ways, impacting both the information flow and the type of boosted content. A social, information, and therefore political influence. This page do not talk about the social-impact of Youtube algorithm, but to the ultimate asset of Google: **the network of content creators**.
 
-{{<boxes color="primary" text="YT wants to control how the platform is perceived by advertisers, who are not willing to pay to appear on problematic content, which must therefore be penalized." >}}
+#### YT wants to control how the platform is perceived by advertisers, who are not willing to pay to appear on problematic content, which must therefore be penalized.
 
 The influence of advertisers is similar to that of a traditional content publisher, but how much they count, and who matters the most for Google, are unknown factors still to be decoded.
 Also, the very definition of “problematic” content raises several issues. The concept itself, _ça va sans dire_, is highly relative and variable depending on the perspective of those who make this classification. It is not even clear which criteria are adopted to reach such definition, nor the actors participating in this process. Human moderators? Ever-changing policies? Artificial intelligence? Or the brands that invest the most? How does the mainstream media affect this process and which are the newspapers and the TV channels that have more weight in this sense? And why?
 
-##### maximize the time captured to the audience
+### Maximize the time captured to the audience
 In the digital economy - or at least in the dominant business model of the ICT market – users’ attention is the scarce good par excellence. Content creators and the platforms that host them are constantly struggling to get hold of a slice of this asset. In the case of YouTube, the circulating information is not chosen, nor favored or promoted, on the basis of its quality, accuracy, or beauty. The algorithm prefers the most visceral contents, which ensure viral sharing. The actual indicators that will promote a content to trending topic are rather the time of visualization, the number of interactions generated, the speed of dissemination.
 
 ### Even the most reasonable internal regulation established by Google translates into less profits.
+
 For example, stopping to associate ads with high economic value to potentially viral conspiracy videos means cutting a big slice of profit out.
 
-{{<colorblock color="primary" text="That’s why we should not expect these concessions from companies themselves, if not as a result of campaigns, debates, analysis, and struggles.">}}
+### That’s why we should not expect these concessions from companies themselves, if not as a result of campaigns, debates, analysis, and struggles.
 
-# How things can change, if many of us want it
+---
 
-This section *should be written by a group of youtubers, not by me*. Since these are technological rules that impact society (also called techno-politics), I compiled a list that must serve as an inspiration, not as a frozen list of demands.
 
-{{<colorblock color="secondary" text="1. Content cannot be automatically moderated, never." >}}
-
-Content recognition algorithms might instead be used by the company, as long as the metadata assigned to the contents is accessible to both the content producer and consumer, and can be updated by the producer.
-
-For example:
-
-1. Anna publishes a self-defense video in which a fake attacker uses a plastic gun
-2. The platform analyzes the video and attributes to the content two metadata "violence" and "weapons". These metadata would then be used to exclude the video from being monetized and to consider it harmful to minors.
-3. Anna edits and removes these unjustified metadata and adds "self-defense" and “education”.
-
-{{<colorblock color="secondary" text="2. An automatic recognition system can only exist if it empowers people." >}}
-
-It should not be an imposition over individuals’ autonomy. Anna will be responsible for her statements. If she deceived the users with false metadata, only in this case, she could be sanctioned.
-
-{{<colorblock color="secondary" text="3. The algorithms that manage notifications or any other kind of personalized suggestions must be under the control of consumers." >}}
-
-Thanks to the aforementioned metadata, notification criteria can be much more structured than the simple "follow a channel", because it is clear that a channel can produce different content. For example:
-
-1. pewdipie is a channel with a large audience, famous for gaming videos.
-2. pewdipie goes from just gaming, to gaming and entertaining videos
-3. If you want to follow pewdipie, it's not a problem, it’s your choice
-4. If you want to follow only pewdipie gaming videos, the system must provide the possibility to subscribe to the content in the most granular way possible.
-
-If content producers can honestly describe what they have created, content filter and selection will be in the hands of the consumers.
-
-(also: We don't need algorithms which learn from us and from social phenomenon. They are just an excuse to legitimize individual profiling).
-
-{{<colorblock color="secondary" text="4. Advertisers must be able to add their messages in relation to the metadata that describe the videos’ content." >}}
-
-We must dismantle the justification of users’ profiling because, by its very nature, it will lead to a segmentation of perception that will damage our connected society.
-
-# What the Youtuber Union (SeeYou) Wants to Do
+# What the Youtuber Union might/wants to Do
 
 1. We collectively analyze YouTube algorithm and collect evidence of algorithmic discrimination to ensure that the community of culture producers who relies on video platforms can be protected. Let's start with YouTube.
 2. The youtubers union, SeeYou, wants to organize a coalition of content producers and rely on it to elaborate, with this community, a series of requests to Google.
@@ -76,8 +57,6 @@ We must dismantle the justification of users’ profiling because, by its very n
 3. Organizations should do strategic litigation
 4. Youtubers should express technopolitical agenda because if the technology in their hands improves, the result would be a higher impact and improved experience for consumers.
 5. Demands should be done as a collective effort and Content creators should feel their peers solidarity and support as one of their shields  against the Corporations' absolute control. We should stop justifying them as *business entities* because they are shaping the public discourse, and this is one of the way the public might stand up.
-
-{{< yt-extension >}}
 
 You can read this first write-up also as [.pdf](https://github.com/tracking-exposed/presentation/blob/master/ytrex_EN_0206.pdf), and please don't forget to:
 
@@ -120,6 +99,42 @@ And this, as well as electoral transparency, must not be seen as a victory for c
 The analogy is that of a dictator who, for once, did something that seemed reasonable to us, a legitimate use of power. Let us not be deceived: it’s us – the mass of users - who gave platforms their power, finding convenient to use an interface, and then ending up tangled in their networks. The value, for us, is the contents, the diversity of the information package, and there is no justification for a Corporation to exercise power over how this information is shared. It is even less legitimate than we are scrutinized in the process.
 But to question this otherwise unstoppable trend, we must first understand it, judge it, and imagine alternatives.
 
-# References and timeline
+---
 
-TODO
+# How things can change, if many of us want it
+
+This section *should be written by a group of youtubers, not by me*. Since these are technological rules that impact society (also called techno-politics), I compiled a list that must serve as an inspiration, not as a frozen list of demands.
+
+# 1. Content cannot be automatically moderated, never.
+
+Content recognition algorithms might instead be used by the company, as long as the metadata assigned to the contents is accessible to both the content producer and consumer, and can be updated by the producer.
+
+For example:
+
+1. Anna publishes a self-defense video in which a fake attacker uses a plastic gun
+2. The platform analyzes the video and attributes to the content two metadata "violence" and "weapons". These metadata would then be used to exclude the video from being monetized and to consider it harmful to minors.
+3. Anna edits and removes these unjustified metadata and adds "self-defense" and “education”.
+
+# 2. An automatic recognition system can only exist if it empowers people.
+
+It should not be an imposition over individuals’ autonomy. Anna will be responsible for her statements. If she deceived the users with false metadata, only in this case, she could be sanctioned.
+
+# 3. The algorithms that manage notifications or any other kind of personalized suggestions must be under the control of consumers.
+
+Thanks to the aforementioned metadata, notification criteria can be much more structured than the simple "follow a channel", because it is clear that a channel can produce different content. For example:
+
+1. pewdipie is a channel with a large audience, famous for gaming videos.
+2. pewdipie goes from just gaming, to gaming and entertaining videos
+3. If you want to follow pewdipie, it's not a problem, it’s your choice
+4. If you want to follow only pewdipie gaming videos, the system must provide the possibility to subscribe to the content in the most granular way possible.
+
+If content producers can honestly describe what they have created, content filter and selection will be in the hands of the consumers.
+
+(also: We don't need algorithms which learn from us and from social phenomenon. They are just an excuse to legitimize individual profiling).
+
+# 4. Advertisers must be able to add their messages in relation to the metadata that describe the videos’ content.
+
+We must dismantle the justification of users’ profiling because, by its very nature, it will lead to a segmentation of perception that will damage our connected society.
+
+---
+
